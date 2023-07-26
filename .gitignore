@@ -1,1 +1,6 @@
 .vscode
+/.metadata/
+.classpath
+.project
+*.class
+*.prefs
